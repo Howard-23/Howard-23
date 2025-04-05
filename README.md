@@ -3,9 +3,9 @@
 I'm a passionate developer with a strong interest in open-source projects and a love for learning new technologies. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
-- Languages: JavaScript, Python, Go, TypeScript
-- Frameworks: React, Node.js, Django, Flask
-- Databases: PostgreSQL, MongoDB, MySQL
+- Languages: JavaScript, Python, TypeScript
+- Frameworks: React, Node.js
+- Databases: MySQL
 - Tools: Docker, Kubernetes, Git, CI/CD with GitHub Actions
 
 ## 🚀 Projects
