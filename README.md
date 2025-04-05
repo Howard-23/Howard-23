@@ -26,9 +26,9 @@ I'm currently focusing on:
 - Machine Learning with Python
 
 ## 📫 Get in Touch
-- Email: [howard@example.com](mailto:howard@example.com)
-- LinkedIn: [linkedin.com/in/howard-23](https://linkedin.com/in/howard-23)
-- Twitter: [@howard_dev](https://twitter.com/howard_dev)
+- Email: [johnhowardgarcia17@gmail.com](mailto:johnhowardgarcia17@gmail.com)
+- LinkedIn: ([https://linkedin.com/in/howard-23](https://www.linkedin.com/in/john-howard-garcia-8a753a2b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- Facebook: [@howard Garcia](https://www.facebook.com/ghooward23))
 
 Feel free to reach out if you want to collaborate on a project, or just to say hi!
 
