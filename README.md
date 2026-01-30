@@ -4,25 +4,24 @@ I'm a passionate developer with a strong interest in open-source projects and a 
 
 ## 🔧 Technologies & Tools
 - Languages: JavaScript, Python, TypeScript
-- Frameworks: React, Node.js
-- Databases: MySQL
-- Tools: Docker, Kubernetes, Git, CI/CD with GitHub Actions
+- Frameworks: React, Next.js
+- Databases: PostgreSQL
+- Tools: Docker, with GitHub Actions
 
 ## 🚀 Projects
 Here are a few projects I've been working on recently:
 
 ### [Project Name](https://github.com/Howard-23/project-name)
 - **Description**: A brief description of what the project does.
-- **Technologies**: JavaScript, Node.js, Express, MongoDB
+- **Technologies**: JavaScript, Next.js, CSS, Python
 
 ### [Another Project](https://github.com/Howard-23/another-project)
 - **Description**: A brief description of what the project does.
-- **Technologies**: Python, Django, PostgreSQL
+- **Technologies**: Python, PostgreSQL
 
 ## 🌱 Learning Goals
 I'm currently focusing on:
 - Advanced TypeScript
-- Cloud computing with AWS and Azure
 - Machine Learning with Python
 
 ## 📫 Get in Touch
