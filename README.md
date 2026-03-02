@@ -3,8 +3,8 @@
 I'm a passionate developer with a strong interest in open-source projects and a love for learning new technologies. Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
-- Languages: JavaScript, Python, TypeScript
-- Frameworks: React, Next.js
+- Languages: JavaScript, Python, TypeScript, CSS3, HTML5
+- Frameworks: React, Next.js, Laravel
 - Databases: PostgreSQL
 - Tools: Docker, with GitHub Actions
 
