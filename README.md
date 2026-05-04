@@ -4,8 +4,8 @@ I'm a passionate developer with a strong interest in open-source projects and a 
 
 ## 🔧 Technologies & Tools
 - Languages: JavaScript, Python, TypeScript, CSS3, HTML5
-- Frameworks: React, Next.js, Laravel
-- Databases: PostgreSQL
+- Frameworks: React, Next.js, Vue, Nuxt.js Laravel, Node.js
+- Databases: PostgreSQL, MySQL, NoSQL
 - Tools: Docker, with GitHub Actions
 
 ## 🚀 Projects
