@@ -22,15 +22,28 @@ I'm a passionate developer with a strong interest in open-source projects and a 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ## 🚀 Projects
-Here are a few projects I've been working on recently:
+A selection of my recent builds. See them all with live previews on my portfolio: **[john-howard.vercel.app](https://john-howard.vercel.app)**
 
-### [Project Name](https://github.com/Howard-23/project-name)
-- **Description**: A brief description of what the project does.
-- **Technologies**: JavaScript, Next.js, CSS, Python
-
-### [Another Project](https://github.com/Howard-23/another-project)
-- **Description**: A brief description of what the project does.
-- **Technologies**: Python, PostgreSQL
+| # | Project | Description | Tech |
+|---|---------|-------------|------|
+| 01 | **PickleBall Web** | Sports website for discovering pickleball, exploring games, and connecting with the community | Next.js, TypeScript, Tailwind CSS, Framer Motion |
+| 02 | **E-Commerce Dashboard** | Dashboard for managing an online store, with real-time analytics, order management, and inventory tracking | Next.js, TypeScript, Tailwind CSS, Recharts |
+| 03 | **Attendance System** | Attendance monitoring that helps a company and its employees track attendance | Next.js, Tailwind CSS, TypeScript |
+| 04 | **Barangay System** | Lets residents request clearances and helps the barangay keep track of its population | Next.js, TypeScript, Tailwind CSS, Prisma, Supabase |
+| 05 | **Office Management System** | Helps a company and its employees track tasks and company goals | Next.js, TypeScript, Tailwind CSS, Prisma, Neon PostgreSQL |
+| 06 | **Prescription Reader** | Helps elderly patients and pharmacists read hard-to-read doctor's prescriptions | Next.js, Tailwind CSS, TypeScript |
+| 07 | **Task Management App** | Productivity app with drag-and-drop organization, priority levels, and progress tracking | Next.js, Tailwind CSS |
+| 08 | **Cloud Task Workspace** | SaaS-style project and task workspace with dashboard analytics, kanban views, and team management | React, Vite, React Router, HTML5, CSS3 |
+| 09 | **Brewlytics** | SaaS-style coffee shop dashboard for analytics, orders, inventory, and customer insights | Next.js, Vue 3, TypeScript, Tailwind CSS, Vue Router |
+| 10 | **Shopify Landing Page** | Custom Shopify landing page template with product sections, testimonials, and call-to-action buttons | Next.js, TypeScript, Tailwind CSS |
+| 11 | **Dental Management System** | Dental clinic system for appointments, patient records, treatments, and billing | Next.js, TypeScript, Tailwind CSS |
+| 12 | **Event Sparks** | Dynamic event management platform | Next.js, CSS3, HTML5 |
+| 13 | **Habit Harbor** | Habit tracking application | Next.js, CSS3, HTML5 |
+| 14 | **Course Craft** | Educational course platform | Next.js, CSS3, HTML5 |
+| 15 | **Menu Muse** | Restaurant menu showcase | Next.js, CSS3, HTML5 |
+| 16 | **Pulse Studio** | Creative studio portfolio website | Next.js, CSS3, HTML5 |
+| 17 | **Insight Board** | Dashboard application | Next.js, CSS3, HTML5 |
+| 18 | **Brandkit** | Branding toolkit platform | Next.js, CSS3, HTML5 |
 
 ## 🌱 Learning Goals
 I'm currently focusing on:
