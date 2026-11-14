@@ -1,4 +1,4 @@
-# Hi there, I'm Howard! 👋
+# Hello, I'm Howard! 👋
 
 I'm a passionate developer with a strong interest in open-source projects and a love for learning new technologies. Welcome to my GitHub profile!
 
