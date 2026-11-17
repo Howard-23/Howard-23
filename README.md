@@ -24,17 +24,26 @@ I'm a passionate developer with a strong interest in open-source projects and a 
 ## 🚀 Projects
 A selection of my recent builds. See them all with live previews on my portfolio: **[john-howard.vercel.app](https://john-howard.vercel.app)**
 
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 01 | **PickleBall Web** | Sports website for discovering pickleball, exploring games, and connecting with the community | Next.js, TypeScript, Tailwind CSS, Framer Motion |
-| 02 | **E-Commerce Dashboard** | Dashboard for managing an online store, with real-time analytics, order management, and inventory tracking | Next.js, TypeScript, Tailwind CSS, Recharts |
-| 03 | **Attendance System** | Attendance monitoring that helps a company and its employees track attendance | Next.js, Tailwind CSS, TypeScript |
-| 04 | **Barangay System** | Lets residents request clearances and helps the barangay keep track of its population | Next.js, TypeScript, Tailwind CSS, Prisma, Supabase |
-| 05 | **Office Management System** | Helps a company and its employees track tasks and company goals | Next.js, TypeScript, Tailwind CSS, Prisma, Neon PostgreSQL |
-| 06 | **Prescription Reader** | Helps elderly patients and pharmacists read hard-to-read doctor's prescriptions | Next.js, Tailwind CSS, TypeScript |
-| 08 | **Cloud Task Workspace** | SaaS-style project and task workspace with dashboard analytics, kanban views, and team management | React, Vite, React Router, HTML5, CSS3 |
-| 09 | **Brewlytics** | SaaS-style coffee shop dashboard for analytics, orders, inventory, and customer insights | Next.js, Vue 3, TypeScript, Tailwind CSS, Vue Router |
-| 11 | **Dental Management System** | Dental clinic system for appointments, patient records, treatments, and billing | Next.js, TypeScript, Tailwind CSS |
+| # | Project | Description | Tech | Links |
+|---|---------|-------------|------|-------|
+| 01 | **PickleBall Web** | Sports website for discovering pickleball, exploring games, and connecting with the community | Next.js, TypeScript, Tailwind CSS, Framer Motion | [Live](https://pickleball-eight-henna.vercel.app/) · [Code](https://github.com/Howard-23/Pickleball) |
+| 02 | **E-Commerce Dashboard** | Dashboard for managing an online store, with real-time analytics, order management, and inventory tracking | Next.js, TypeScript, Tailwind CSS, Recharts | [Live](https://e-commerce-psi-dusky-70.vercel.app/) · [Code](https://github.com/Howard-23/e-commerce) |
+| 03 | **Attendance System** | Attendance monitoring that helps a company and its employees track attendance | Next.js, Tailwind CSS, TypeScript | [Live](https://attandance-system.vercel.app/) · [Code](https://github.com/Howard-23/attandance-system) |
+| 04 | **Barangay System** | Lets residents request clearances and helps the barangay keep track of its population | Next.js, TypeScript, Tailwind CSS, Prisma, Supabase, NextAuth.js | [Live](https://bms-blue.vercel.app/) · [Code](https://github.com/Howard-23/BMS) |
+| 05 | **Office Management System** | Helps a company and its employees track tasks and company goals | Next.js, TypeScript, Tailwind CSS, Prisma, Neon PostgreSQL, Firebase | [Live](https://office-management-pi.vercel.app/login) · [Code](https://github.com/Howard-23/office-management) |
+| 06 | **Prescription Reader** | Helps elderly patients and pharmacists read hard-to-read doctor's prescriptions | Next.js, Tailwind CSS, TypeScript | [Live](https://medi-scan-prescription-scanner.vercel.app/) · [Code](https://github.com/Howard-23/Medi-Scan-Prescription-Scanner) |
+| 07 | **Task Management App** | Productivity app with drag-and-drop organization, priority levels, and progress tracking | Next.js, TypeScript, Tailwind CSS | [Live](https://task-manager-lime-theta-49.vercel.app/) · [Code](https://github.com/Howard-23/Task-Manager) |
+| 08 | **Cloud Task Workspace** | SaaS-style project and task workspace with dashboard analytics, kanban views, and team management | React, Vite, React Router, Firebase Auth, Neon PostgreSQL | [Live](https://cloud-task-workspace.vercel.app/) · [Code](https://github.com/Howard-23/Cloud-Task-Workspace) |
+| 09 | **Brewlytics** | SaaS-style coffee shop dashboard for analytics, orders, inventory, and customer insights | Nuxt 3, Vue 3, TypeScript, Tailwind CSS, Vue Router | [Live](https://brewlytics-eight.vercel.app/customers) · [Code](https://github.com/Howard-23/Brewlytics) |
+| 10 | **Shopify Landing Page** | Custom landing page template for Shopify stores with product, testimonial, and call-to-action sections | Next.js, TypeScript, Tailwind CSS | [Live](https://shopify-landing-page-omega.vercel.app/) · [Code](https://github.com/Howard-23/shopify-landing-page) |
+| 11 | **Dental Management System** | Dental clinic system for appointments, patient records, treatments, and billing | Next.js, TypeScript, Tailwind CSS | [Live](https://dental-management-system-rose.vercel.app/) · [Code](https://github.com/Howard-23/Dental-Management-System) |
+| 12 | **Event Sparks** | Dynamic event management platform | Next.js, CSS3, HTML5 | [Live](https://event-spark-two.vercel.app/) · [Code](https://github.com/Howard-23/Event-Spark) |
+| 13 | **Habit Harbor** | Habit tracking application | Next.js, CSS3, HTML5 | [Live](https://habit-harbor.vercel.app/) · [Code](https://github.com/Howard-23/Habit-Harbor) |
+| 14 | **Course Craft** | Educational course platform | Next.js, CSS3, HTML5 | [Live](https://course-craft-ashy.vercel.app/) · [Code](https://github.com/Howard-23/Course-Craft) |
+| 15 | **Menu Muse** | Restaurant menu showcase | Next.js, CSS3, HTML5 | [Live](https://menu-muse.vercel.app/) · [Code](https://github.com/Howard-23/Menu-Muse) |
+| 16 | **Pulse Studio** | Creative studio website | Next.js, CSS3, HTML5 | [Live](https://pulse-studio-xi.vercel.app/) · [Code](https://github.com/Howard-23/Pulse-Studio) |
+| 17 | **Insight Board** | Dashboard application | Next.js, CSS3, HTML5 | [Live](https://insight-board-eight.vercel.app/) · [Code](https://github.com/Howard-23/Insight-Board) |
+| 18 | **Brandkit** | Branding toolkit platform | Next.js, CSS3, HTML5 | [Live](https://brand-kit-nine.vercel.app/) · [Code](https://github.com/Howard-23/Brand-Kit) |
 
 ## 🌱 Learning Goals
 I'm currently focusing on:
