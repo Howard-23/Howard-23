@@ -57,7 +57,4 @@ I'm currently focusing on:
 
 Feel free to reach out if you want to collaborate on a project, or just to say hi!
 
-## 📈 GitHub Stats
-![Howard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Howard-23&show_icons=true&theme=radical)
-
 Thanks for stopping by! Have a great day! 😄
